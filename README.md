@@ -1,7 +1,7 @@
 Thank you for your attention to our SemaTree work.
 
 
-SemaTree has achieved the state of the art in many tracking datasets.
+SemaTree has achieved the state of the art in many datasets.
 
 
 Since the paper is still in the review stage, the code and model will be changed to be visible after the review (February, 2020).
